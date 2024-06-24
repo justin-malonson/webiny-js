@@ -21,10 +21,10 @@
     "@webiny/handler-graphql": "0.0.0",
     "@webiny/plugins": "0.0.0",
     "@webiny/pubsub": "0.0.0",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "lodash": "^4.17.21",
-    "nodemailer": "^6.7.6",
-    "zod": "^3.21.4"
+    "nodemailer": "^6.9.9",
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.22.6",
