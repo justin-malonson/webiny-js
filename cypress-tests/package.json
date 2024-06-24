@@ -17,7 +17,7 @@
     "graphql-request": "^3.3.0",
     "lodash": "^4.17.11",
     "nanoid": "^3.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "uniqid": "^5.2.0"
   },
   "scripts": {

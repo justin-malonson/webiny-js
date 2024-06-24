@@ -22,9 +22,9 @@
     "center-align": "^1.0.1",
     "chalk": "^4.1.2",
     "dynamodb-toolbox": "^0.3.5",
-    "minimatch": "^5.1.6",
+    "minimatch": "^6.0.0",
     "pino-pretty": "^9.4.0",
-    "semver": "^6.3.0"
+    "semver": "^6.3.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.22.6",
